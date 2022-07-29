@@ -1,5 +1,4 @@
 Napoli_Report
-napolimagazine
 kisskissnapoli
 SSCNapoliNews_
 sscnapoli
@@ -8,3 +7,8 @@ goal
 ESPNFC
 SerieA_EN
 EiFSoccer
+SkySport
+CorSport
+SkySportsNews
+sportbible
+GennyDelVe

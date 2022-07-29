@@ -10,8 +10,6 @@ Solano_56
 CLMerlo
 footballitalia
 mirkocalemme
-SkySport
-CorSport
 TuttoMercatoWeb
 demarkesports
 TyCSports
@@ -73,3 +71,4 @@ tuttonapoli
 CalcioNapoli24
 Thogden
 ADeLaurentiis
+FrModugno
